@@ -1,6 +1,7 @@
 /backend/node_modules
 /backend/public/hot
 /backend/public/storage
+/backend/public/angular/
 /backend/storage/*.key
 /backend/vendor
 /backend/.idea
